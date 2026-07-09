@@ -92,4 +92,4 @@ This GitHub profile is mainly a place for:
 
 You can also find me on LinkedIn:
 
-[LinkedIn Profile](https://www.linkedin.com/in/matthias-knör-209710151/)
+[LinkedIn Profile](www.linkedin.com/in/matthias-knoer-cybersec)
